@@ -1,23 +1,59 @@
 tile.modernalchemy:blockTeslaCoil.name=Bobine tesla
-tile.modernalchemy:blockTeslaStand.name=Stand de bobine tesla
+tile.modernalchemy:blockTeslaStand.name=Support de bobine tesla
 tile.modernalchemy:fluidCompressedAir.name=Air comprimé
 tile.modernalchemy:fluidActinium.name=Actinium liquide
 tile.modernalchemy:blockOreActinium.name=Minerai d'actinium
-tile.modernalchemy:arcFurnaceDummy.name=Enveloppe de four d'arc
-tile.modernalchemy:blockArcFurnaceCore.name=Processeur de four d'arc
-tile.modernalchemy:blockCompressor.name=Soufflet électrique
-tile.modernalchemy:blockSolidifier.name=Amalgamateur
+tile.modernalchemy:blockArcFurnaceDummy.name=Boitier du four à arc
+tile.modernalchemy:blockArcFurnaceCore.name=Processeur du four à arc
+tile.modernalchemy:blockElectricBellows.name=Soufflet électrique
+tile.modernalchemy:blockAmalgamator.name=Amalgamateur
 tile.modernalchemy:blockPatternRecorder.name=Enregistreur de modèle
-tile.modernalchemy:arcFurnaceDummyOutputValue.name=Valve sortante de four d'arc
-tile.modernalchemy:arcFurnaceDummyItemIO.name=E/S d'élément de four d'arc
-tile.modernalchemy:arcFurnaceDummyAirValue.name=Valve d'air comprimé de four d'arc
+tile.modernalchemy:blockArcFurnaceDummyOutputValve.name=Valve sortante du four à arc
+tile.modernalchemy:blockArcFurnaceDummyItemIO.name=E/S d'élément du four à arc
+tile.modernalchemy:blockArcFurnaceDummyEnergy.name=Récepteur d'énergie du four à arc
+tile.modernalchemy:blockArcFurnaceDummyAirValve.name=Valve d'air comprimé du four à arc
 tile.modernalchemy:blockTeslaBase.name=Bobine tesla de base
-tile.modernalchemy:blockFrame.name=Cadre de duplicateur
-tile.modernalchemy:blockFrameEnergy.name=UPC de duplicateur
+tile.modernalchemy:blockReplicatorFrame.name=Cadre du duplicateur
+tile.modernalchemy:blockReplicatorCPU.name=Contrôleur du duplicateur
+tile.modernalchemy:blockReplicatorStand.name=Support du duplicateur
+tile.modernalchemy:blockAdvancedCrafter.name=Atelier avancé
+tile.modernalchemy:blockCopperOre.name=Minerai de cuivre
 
 item.modernalchemy:pattern.name=Modèle du duplicateur
 item.modernalchemy:bucketActinium.name=Sceau d'actinium
-item.modernalchemy:itemCube.name=Moyen du duplicateur
+item.modernalchemy:itemReplicationMedium.name=Moyen du duplicateur
 item.modernalchemy:wrench.name=Clé
+item.modernalchemy:itemSlag.name=Scorie
+item.modernalchemy:itemActinium.name=Poussière d'actinium
+item.modernalchemy:laserNodeItem.name=Laser du duplicateur
 
-itemGroup.tabmodernalchemy=Modern Alchemy
+item.modernalchemy:faraday_boots.name=Bottes armées de Faraday
+item.modernalchemy:faraday_leg.name=Jambières armées de Faraday
+item.modernalchemy:faraday_helm.name=Casque armé de Faraday
+item.modernalchemy:faraday_chest.name=Coffre armé de Faraday
+
+fluid.modernalchemy:fluidCompressedAir=Air comprimé
+fluid.modernalchemy:fluidActinium=Actinium
+
+modernalchemy.nei.name=NEI de Modern Alchemy
+modernalchemy.nei.arcfurnace=Recettes du four à arc
+
+itemGroup.tabModernAlchemy=Modern Alchemy
+
+pageHeaders.description=Description
+pageHeaders.moreInfo=Plus d'information
+
+mainPage.info=Créez des éléments avec la lumière et la matière radioactif. Un mod de jeu intermédiaire se concentrant sur la duplication d'élément amusante, pourtant de façon stimulante. Avec l'accent du réalisme de ce mod qui vous fera penser de ne pas seulement bricoler.
+mainPage.info.header=Informations du Mod
+mainPage.authors=Auteurs
+mainPage.authors.list=Dyonovan, pauljoda, Dominance, beef
+mainPage.categories.header=Catégories
+
+blocksPage.title=Blocs
+blocksPage.machines=Machines
+blocksPage.arcFurnace=Four à arc
+blockPage.replicator=Duplicateur
+blockPage.teslaCoil=Bobine tesla
+
+pageTeslaCoil.description=La bobine tesla est un monument d'ingénierie, elle acceptera des RF a travers sa base, la convertira en énergie Tesla et la transmetra  via sa tête aux machines et dispositifs proches.
+pageTeslaCoil.moreInfo=La bobine tesla à une effet latéral appelé mort, elle vous blessera et vous enflammera si vous rentrez en contact avec un boulon d'énergie. Pour prévenir une mort accidentelle ou une blessure corporelle, Portez une paire armée de Faraday. Les éclairs peuvent aussi tuer les créatures et charger les creepers.
