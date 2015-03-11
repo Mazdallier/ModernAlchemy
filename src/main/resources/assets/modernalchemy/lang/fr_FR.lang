@@ -71,6 +71,9 @@ pageHeaders.description=Description
 pageHeaders.moreInfo=Plus d'information
 pageHeaders.seeAlso=Voir aussi
 
+achievement.mineActinium=Ca commence
+achievement.mineActinium.desc=Minez votre premier minerai d'actinium
+
 mainPage.info=Create items with lighting and radioactive material. A mid to late game mod focusing on replicating items in a fun, yet challenging way. With emphasis on realism this mod will make you think not just craft.
 mainPage.info.header=Information du mod
 mainPage.authors=Auteurs
